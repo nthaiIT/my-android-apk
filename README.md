@@ -1,3 +1,3 @@
 # 📱 APK Downloads
 
-[app-article.apk](apk/app-article.apk?raw=true)
+[app-news.apk](apk/app-news.apk?raw=true)
